@@ -1,0 +1,1 @@
+http://www.slideshare.net/SatnamSingh67/2015-0605-cluster-management-with-kubernetes
