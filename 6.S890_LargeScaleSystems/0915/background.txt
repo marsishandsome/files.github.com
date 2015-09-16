@@ -1,0 +1,8 @@
+Questions for 6.S897 lecture 2 (Background, 09/15).
+Email your answers to 6.s897staff@gmail.com.
+
+1) The View of Cloud Computing article was written in 2010. Since that time, which of the obstacles identified in the article do you think have been overcome, and which remain? And are there any new obstacles?
+
+2) In the Scaling Facebook presentation, one of the slides ("Push vs Pull") says that the pull model is preferred because "In a social graph, the number of incoming edges is much smaller than the outgoing ones." What do you think this means?
+
+3) Where do relational databases fit into the Facebook data warehousing infrastructure described in their 2010 paper?
